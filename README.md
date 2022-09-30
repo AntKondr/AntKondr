@@ -27,5 +27,5 @@
 ### Contact me in:
 [<img align="left" alt="vk" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968835.png"/>][vk]
 
-[vk]: (https://vk.com/hotsbomber)
-[codewars]: (https://www.codewars.com/users/TonyKondr)
+[vk]: https://vk.com/hotsbomber
+[codewars]: https://www.codewars.com/users/TonyKondr
