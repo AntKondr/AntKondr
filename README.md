@@ -1,5 +1,5 @@
 ## Hi there, i'm Anton Kondratev
-### I'm a beginner python backend developer
+### I'm a python backend developer
 ### Skills and tools:
 <img align="left" alt="python" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 
@@ -17,18 +17,14 @@
 
 <img align="left" alt="vscode" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/80px-Visual_Studio_Code_1.35_icon.svg.png"/>
 
-<br />
-<br />
-<br />
+<br/>
+<br/>
+<br/>
 
 ### My profile in CodeWars:
 [<img align="left" alt="codewars" width="350" src="https://www.codewars.com/users/TonyKondr/badges/large"/>][codewars]
 
-<br />
-<br />
+<br/>
+<br/>
 
-### Contact me in:
-[<img align="left" alt="vk" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968835.png"/>][vk]
-
-[vk]: https://vk.com/hotsbomber
 [codewars]: https://www.codewars.com/users/TonyKondr
