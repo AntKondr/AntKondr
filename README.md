@@ -22,9 +22,10 @@
 <br/>
 
 ### My profile in CodeWars:
-[<img align="left" alt="codewars" width="350" src="https://www.codewars.com/users/TonyKondr/badges/large"/>][codewars]
-
+[<img align="left" alt="codewars" width="350" src="https://www.codewars.com/users/TonyKondr/badges/large"/>][codewars]<br/>
 <br/>
-<br/>
+### Contact me:
+[<img align="left" alt="telegram" width="60" src="https://web.telegram.org/a/icon-192x192.png"/>][tg]
 
 [codewars]: https://www.codewars.com/users/TonyKondr
+[tg]: https://t.me/AntonyKondr
